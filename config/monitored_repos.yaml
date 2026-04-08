@@ -1,5 +1,5 @@
 repos:
-  - slug: your-github-username/repo-one
+  - slug: mtp354/Broadcasting
     branch: main
     setup:
       - python -m pip install -r requirements.txt
@@ -8,7 +8,7 @@ repos:
       - python -m pytest -q
       - python -m pip check
 
-  - slug: your-github-username/repo-two
+  - slug: mtp354/mtp354.github.io
     branch: main
     setup:
       - python -m pip install -r requirements.txt

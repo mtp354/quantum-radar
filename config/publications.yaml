@@ -25,6 +25,7 @@ keywords:
   - delegated quantum
   - blind quantum
   - mbqc
+  - quantum cryptography
 
 news:
   max_age_days: 10
