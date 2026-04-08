@@ -1,0 +1,67 @@
+name: Daily repo health
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 10 * * *"
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Ensure repo-health label exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import requests
+          import os
+
+          repo = os.environ["GITHUB_REPOSITORY"]
+          token = os.environ["GH_TOKEN"]
+          url = f"https://api.github.com/repos/{repo}/labels/repo-health"
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Accept": "application/vnd.github+json",
+          }
+          r = requests.get(url, headers=headers, timeout=30)
+          if r.status_code == 404:
+              requests.post(
+                  f"https://api.github.com/repos/{repo}/labels",
+                  headers=headers,
+                  json={"name": "repo-health", "color": "B60205", "description": "Automated repo health failures"},
+                  timeout=30,
+              )
+          PY
+
+      - name: Run repo checks
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          MONITORED_REPOS_TOKEN: ${{ secrets.MONITORED_REPOS_TOKEN }}
+        run: python scripts/check_repos.py
+
+      - name: Commit updated reports
+        run: |
+          if git diff --quiet -- reports state; then
+            echo "No report changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports state
+          git commit -m "chore: update repo health report"
+          git push

@@ -1,0 +1,16 @@
+repos:
+  - slug: your-github-username/repo-one
+    branch: main
+    setup:
+      - python -m pip install -r requirements.txt
+    checks:
+      - python -m compileall .
+      - python -m pytest -q
+      - python -m pip check
+
+  - slug: your-github-username/repo-two
+    branch: main
+    setup:
+      - python -m pip install -r requirements.txt
+    checks:
+      - python -m compileall .
