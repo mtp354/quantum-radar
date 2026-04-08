@@ -1,6 +1,6 @@
 # Quantum publications and news digest
 
-_Generated: 2026-04-08 02:47 UTC_
+_Generated: 2026-04-08 02:56 UTC_
 
 ## Publications
 
@@ -106,7 +106,7 @@ _Generated: 2026-04-08 02:47 UTC_
    - Query bucket: quantum computing
    - Matched: quantum computing, photonic quantum
 
-9. [Why The Quantum Computing Industry Needs Logical Qubit Standards - forbes.com](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDBvaXdvR3o2T0NmZ1pYcHBaem1FUENjb096Q3JENW54cEI5aTBjQUFIRmJydS1nMUdMeDhmWHE0bEo5a2hOX0dmb0hsNFBILUFJQ0JGY29BVEQ5TnlfS1VnZlB2VEJTTVhqMkpKdkNIcS1FdzlUZkQ4VWk5QTZ6eEpycXZGTnJKbEZzcXUtbG9uNklBRzBZNkVBeEdQM0kzbGhRRWJKUFhfOU5vek1vc0lJLVN0bzBiR1E?oc=5)
+9. [Why The Quantum Computing Industry Needs Logical Qubit Standards - Forbes](https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDBvaXdvR3o2T0NmZ1pYcHBaem1FUENjb096Q3JENW54cEI5aTBjQUFIRmJydS1nMUdMeDhmWHE0bEo5a2hOX0dmb0hsNFBILUFJQ0JGY29BVEQ5TnlfS1VnZlB2VEJTTVhqMkpKdkNIcS1FdzlUZkQ4VWk5QTZ6eEpycXZGTnJKbEZzcXUtbG9uNklBRzBZNkVBeEdQM0kzbGhRRWJKUFhfOU5vek1vc0lJLVN0bzBiR1E?oc=5)
    - Published: 2026-04-06
    - Query bucket: quantum computing
    - Matched: quantum computing, logical qubit
