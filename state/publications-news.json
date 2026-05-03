@@ -1,62 +1,33 @@
 {
-  "generated_at": "2026-05-01T11:36:59Z",
+  "generated_at": "2026-05-03T11:28:13Z",
   "news": [
     {
-      "id": "7981c18e7a8473ea",
+      "id": "2f5879049ab457f2",
       "matched_keywords": [
         "quantum computing",
-        "error correction",
-        "neutral atom"
+        "quantum algorithm"
       ],
-      "published": "2026-04-30T14:38:47Z",
-      "query": "neutral atom quantum computing",
-      "score": 9,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlZkU05jd0tmQ3ZKUWVlUjMyclNqVlFkQnZyX2ItU0tmUS0zQkNBUWdRMjFfN0ZldjNFWjVfbkl3a0xUQ3kwWDFldjhIdTYwdkFqcnZYN0s1VnNNX1JMa09JaFVKZFRYendDY2JzaGVPckNIYXpodTBsaVRkRlBRVG53STh5bzY2MU80dVlSRjAxY0tBQ1UyaXV0cW04cFBYMGZBZENIQV94RGVMck9IbklXM19ySTBRWXpNRjZObk5yUQ?oc=5\" target=\"_blank\">QuEra claims quantum error correction breakthrough with 2-to-1 qubit ratio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Network World</font>",
-      "title": "QuEra claims quantum error correction breakthrough with 2-to-1 qubit ratio - Network World",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSlZkU05jd0tmQ3ZKUWVlUjMyclNqVlFkQnZyX2ItU0tmUS0zQkNBUWdRMjFfN0ZldjNFWjVfbkl3a0xUQ3kwWDFldjhIdTYwdkFqcnZYN0s1VnNNX1JMa09JaFVKZFRYendDY2JzaGVPckNIYXpodTBsaVRkRlBRVG53STh5bzY2MU80dVlSRjAxY0tBQ1UyaXV0cW04cFBYMGZBZENIQV94RGVMck9IbklXM19ySTBRWXpNRjZObk5yUQ?oc=5"
-    },
-    {
-      "id": "8acc0eba34871dd7",
-      "matched_keywords": [
-        "quantum computing",
-        "trapped ion"
-      ],
-      "published": "2026-05-01T09:03:00Z",
+      "published": "2026-05-02T21:18:47Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDQtMTBBa20zcjFqRVpXM1pabUk2WHh0MFVhc0dzU3pTQkx2c1lBVXkxSWZTaVZsMTBzRXNSbmdRN2RHYmFfVFlBY29EY3lfTTFTRWxWTEJPdkI2alF0TVdUUmxHNTNNZHV5VTdFVkVKdXhUVGgwREIyTXplWjFqb2gzczNZTFlGTERNQklvUm5tWGxtWFE?oc=5\" target=\"_blank\">Oxford team achieves advanced quantum squeezing with trapped ion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
-      "title": "Oxford team achieves advanced quantum squeezing with trapped ion - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDQtMTBBa20zcjFqRVpXM1pabUk2WHh0MFVhc0dzU3pTQkx2c1lBVXkxSWZTaVZsMTBzRXNSbmdRN2RHYmFfVFlBY29EY3lfTTFTRWxWTEJPdkI2alF0TVdUUmxHNTNNZHV5VTdFVkVKdXhUVGgwREIyTXplWjFqb2gzczNZTFlGTERNQklvUm5tWGxtWFE?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVnUxYzFJZlE5ZHZJUk5JLXhGUlluTk4wdEJLVDZRT0E4WTV2bVFaWEhVZmlWdy1pQVhZMjc3TjU0X3JYQzdydFpfYUVKNHVQQzlUOFNtcE5hOVhPX2xXVl9BUWtObHI4MmVOSkRrZy16WmI3aE9kTXlHT3l5X08yT29MZEhsNzN5VFl4Q0ZSV2o5WEdtdEh0Y3BwbW1iWVRzTTJJZUJMeG1LRzRUSXlTa3A0SF9QVTM1UmZ4YVR5eHFfU0g1Rl9Lc2JFelZhQk1lSnZTNzBOMkg1U2MzUE1tdGtGX2pmWWtzNlHSAe8BQVVfeXFMTXZEeThKZ1gwUzZFVWpsU2szWEU0cmdsMzlQMFB4Q3pBaFdKNVJSQ0JiX1dySEhranIxa3A1dGlKWkpSUVZ1c0pBdjhDdFdndnVJTGJRLXlnMHcybVpFR2M4SmpveEpTaUtkLWxSbDhZZkM2RXB5QW4zRks1RUVlY2pLM2ZmNUh2T3RTSjFvcHB6clFNSkExZnRmMUd2OEw5RWxlQzctdXhNZFZTcHBnaDU0VVJ0elJZalZUVmlHVmVqQWhzTHVCcnpzenlZd3FEUERPaF9zOHRlWmZNUEF4VDFydWlzV25zd3ZyUWdWNDQ?oc=5\" target=\"_blank\">Lawrence Livermore National Laboratory Receives $4.1M ARPA-E Award to Develop Quantum Algorithms for Magnetic Materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Lawrence Livermore National Laboratory Receives $4.1M ARPA-E Award to Develop Quantum Algorithms for Magnetic Materials - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVnUxYzFJZlE5ZHZJUk5JLXhGUlluTk4wdEJLVDZRT0E4WTV2bVFaWEhVZmlWdy1pQVhZMjc3TjU0X3JYQzdydFpfYUVKNHVQQzlUOFNtcE5hOVhPX2xXVl9BUWtObHI4MmVOSkRrZy16WmI3aE9kTXlHT3l5X08yT29MZEhsNzN5VFl4Q0ZSV2o5WEdtdEh0Y3BwbW1iWVRzTTJJZUJMeG1LRzRUSXlTa3A0SF9QVTM1UmZ4YVR5eHFfU0g1Rl9Lc2JFelZhQk1lSnZTNzBOMkg1U2MzUE1tdGtGX2pmWWtzNlHSAe8BQVVfeXFMTXZEeThKZ1gwUzZFVWpsU2szWEU0cmdsMzlQMFB4Q3pBaFdKNVJSQ0JiX1dySEhranIxa3A1dGlKWkpSUVZ1c0pBdjhDdFdndnVJTGJRLXlnMHcybVpFR2M4SmpveEpTaUtkLWxSbDhZZkM2RXB5QW4zRks1RUVlY2pLM2ZmNUh2T3RTSjFvcHB6clFNSkExZnRmMUd2OEw5RWxlQzctdXhNZFZTcHBnaDU0VVJ0elJZalZUVmlHVmVqQWhzTHVCcnpzenlZd3FEUERPaF9zOHRlWmZNUEF4VDFydWlzV25zd3ZyUWdWNDQ?oc=5"
     },
     {
-      "id": "451aa11957db6c43",
+      "id": "35141989f10b0725",
       "matched_keywords": [
         "quantum computing",
-        "neutral atom"
+        "quantum network"
       ],
-      "published": "2026-04-30T23:01:47Z",
-      "query": "neutral atom quantum computing",
+      "published": "2026-05-01T12:00:00Z",
+      "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQnlPWWpudWNYdjFiaHM4ZG5qcFhTaUZ6NldjMWFSZWE1aXRDT0FhcTBFNlBHN3VpeWkxNDBxRUpfbDF5X0VaZE9TNzQ0cDlvTW1FeDd4dlA1bm45YktFNlN4SWZ6VHdpbHhTT2VzM1JjVTFJbTFBenRn?oc=5\" target=\"_blank\">Atomic Entanglement Survives 30 Per Cent Laser Noise With High Fidelity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Atomic Entanglement Survives 30 Per Cent Laser Noise With High Fidelity - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBWQnlPWWpudWNYdjFiaHM4ZG5qcFhTaUZ6NldjMWFSZWE1aXRDT0FhcTBFNlBHN3VpeWkxNDBxRUpfbDF5X0VaZE9TNzQ0cDlvTW1FeDd4dlA1bm45YktFNlN4SWZ6VHdpbHhTT2VzM1JjVTFJbTFBenRn?oc=5"
-    },
-    {
-      "id": "93145483395e42b1",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-04-30T21:09:36Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5lMnJPQ0ItWmpXajJOM0xkc1pXX2xHWkVlbGgzdElPSnZNTzF5RGs0Wk9lRzJkVlBCcEdXbHFoMTFwYTF0Y3VHUGhsWUZkeGU4dEs2UUNkbl9idVVoWVA3NHBCOFdNRW9jaWN1WkQ1RUNpb1hIYkhoTHRiUFpUODQ?oc=5\" target=\"_blank\">Atomic Gate Design Boosts Stability Tenfold For Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Atomic Gate Design Boosts Stability Tenfold For Quantum Computing - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lMnJPQ0ItWmpXajJOM0xkc1pXX2xHWkVlbGgzdElPSnZNTzF5RGs0Wk9lRzJkVlBCcEdXbHFoMTFwYTF0Y3VHUGhsWUZkeGU4dEs2UUNkbl9idVVoWVA3NHBCOFdNRW9jaWN1WkQ1RUNpb1hIYkhoTHRiUFpUODQ?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjdQS054amFFVzFUQl94emplbzczNDRtSzI4bUxGZ3A3WGhzY1ZJeVpTVzVGbmJucDQzRmlMUE1NeFRvdlEwVzdoYk05aklRblJjOGJnTF9kTmZtcXdfV0l5ZW9lODBYU1JyLTI2MnNyYUt4SXp2RlhMYU9rYTVLdTZUVGhlX0NmcmNSQi1GbnFlOU1TY2RDelFjd2lOV3FkSmwxMkpEbWpmMEYtYkQ5Mm1YNVlXZTdyQ29N?oc=5\" target=\"_blank\">Industry Advances Quantum Networking, Cloud and Application Development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AFCEA International</font>",
+      "title": "Industry Advances Quantum Networking, Cloud and Application Development - AFCEA International",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbjdQS054amFFVzFUQl94emplbzczNDRtSzI4bUxGZ3A3WGhzY1ZJeVpTVzVGbmJucDQzRmlMUE1NeFRvdlEwVzdoYk05aklRblJjOGJnTF9kTmZtcXdfV0l5ZW9lODBYU1JyLTI2MnNyYUt4SXp2RlhMYU9rYTVLdTZUVGhlX0NmcmNSQi1GbnFlOU1TY2RDelFjd2lOV3FkSmwxMkpEbWpmMEYtYkQ5Mm1YNVlXZTdyQ29N?oc=5"
     },
     {
       "id": "b8a6ced2f94baeba",
@@ -65,26 +36,12 @@
         "trapped ion"
       ],
       "published": "2026-04-30T19:48:09Z",
-      "query": "quantum computing",
+      "query": "fault tolerant quantum computing",
       "score": 6,
       "source": "News",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTdqZ1k4bGhmYlotZXBJSkJYS0lhZ01NXzBWYmJSQTRVMHZvZnJHWS1YdDVyYlVhYkxVcFlLMGJ4d2xqUDRuVVA1bG02b05NQ1dIOVhnTzVFTHplT2dUQW5NenBBWnh4ZHlYUW9wZjFXc0NHWk9uWXg4ZGpqSm1aeFp2aHZ1bTlZOExlT0oyaGVLX2lxR0pQUEdQdnZta2JsTklqOA?oc=5\" target=\"_blank\">IonQ outlines blueprint for fault-tolerant quantum computer using trapped ions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mugglehead Investment Magazine</font>",
       "title": "IonQ outlines blueprint for fault-tolerant quantum computer using trapped ions - Mugglehead Investment Magazine",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTdqZ1k4bGhmYlotZXBJSkJYS0lhZ01NXzBWYmJSQTRVMHZvZnJHWS1YdDVyYlVhYkxVcFlLMGJ4d2xqUDRuVVA1bG02b05NQ1dIOVhnTzVFTHplT2dUQW5NenBBWnh4ZHlYUW9wZjFXc0NHWk9uWXg4ZGpqSm1aeFp2aHZ1bTlZOExlT0oyaGVLX2lxR0pQUEdQdnZta2JsTklqOA?oc=5"
-    },
-    {
-      "id": "9c849311e981538f",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-04-29T21:06:05Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVVdEg1MGsxVGVVZUg1UnF2UkdKWExwOWRlaThNWmRoMXZyQWViU0FrdlVaY0xKR2RFalI3VFFuLU1pSzl4UXJoT0ZEVkdMNG9Rbl9kSlJDTHRlaDJmdGtEcW50cnhqQlJsM0VoRllBdzRRSEw0X3o2RWpmcHlsUnZkUmVMVXdQaHI5ZnVqeV9fa1R0M3FUSWZrRmFkREZFdHB1dnd6SzF3WTZ2b3N6aGRrbGFMRnJ0S29BTUE2TUl1eWlHMW9YZEc2VUI1UQ?oc=5\" target=\"_blank\">Monarch Quantum, Oratomic partner to accelerate quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "title": "Monarch Quantum, Oratomic partner to accelerate quantum computing - MSN",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazVVdEg1MGsxVGVVZUg1UnF2UkdKWExwOWRlaThNWmRoMXZyQWViU0FrdlVaY0xKR2RFalI3VFFuLU1pSzl4UXJoT0ZEVkdMNG9Rbl9kSlJDTHRlaDJmdGtEcW50cnhqQlJsM0VoRllBdzRRSEw0X3o2RWpmcHlsUnZkUmVMVXdQaHI5ZnVqeV9fa1R0M3FUSWZrRmFkREZFdHB1dnd6SzF3WTZ2b3N6aGRrbGFMRnJ0S29BTUE2TUl1eWlHMW9YZEc2VUI1UQ?oc=5"
     },
     {
       "id": "9d3d7ce52bf038b9",
@@ -129,32 +86,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa1A3QnJYTnZRNXhMaVdsLUNJaURhNlpXN0pGUzRGMnpVTThXSGV4N2tscXdna0ZGOVpuQUZrVU44SVhLV0JKQ0JsWkNyUTJkRTZ5d0s1bDlMRGp0RVE3dTBESkliTTBCSHhsYkZtZ1hhdkpSd3hwRGVsVkZwYW1PMnNveGlhNEhsSThUdFR5b2xGQkRESjdpM3NlbU1wYmdpMVhCQmRfWWYzVDZBNTdPNVFHT29RT0I3YlpV0gHAAUFVX3lxTE1qREVvWmhIUnJhalVIV185X3laTkktQXZmUlNWUFVmLWpZbmRUR0p0VF9LQ1dWLXlQUWhvcDlBNm95ZmhMM010UGJsNVBGay1tZkRia1ZZUEdsV0lyM1Y4dXRfX1dMVVZGeGxVX2wtYWNkOTRrdVR6bk83VFhLazNjSVJDY0JkQXNxU0xxbTM0ZkdJZFQySTdqeTlpMmdNcWRzcWViZE9VVVNyb2hVQk5FV3I3bHJzWVRHTHlRWWs4Tg?oc=5"
     },
     {
-      "id": "8c1cf75ff23ffb0f",
+      "id": "b620bbdc4696fbed",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-04-28T17:00:05Z",
+      "published": "2026-04-28T07:00:00Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGVaalVYa1dUeDZHeW5ydFNEZDRvYlBaLTBBRHdtcGx3cEdoa1RVQzZPS2l4MVJjQXhKZ0hCVm5JUkE0eVdnUkVkYTJ6ZTNQVGFvS3luQlBzSG1zOWgwWkdzeEpUanh2WF9MNHotcUZZVEFqNy1pNEMzZFVvMlJoQUJR?oc=5\" target=\"_blank\">Quantum Computers Gain Speed With New Fault-Tolerant Architecture Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Quantum Computers Gain Speed With New Fault-Tolerant Architecture Design - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGVaalVYa1dUeDZHeW5ydFNEZDRvYlBaLTBBRHdtcGx3cEdoa1RVQzZPS2l4MVJjQXhKZ0hCVm5JUkE0eVdnUkVkYTJ6ZTNQVGFvS3luQlBzSG1zOWgwWkdzeEpUanh2WF9MNHotcUZZVEFqNy1pNEMzZFVvMlJoQUJR?oc=5"
-    },
-    {
-      "id": "be848d90268cb517",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum architecture"
-      ],
-      "published": "2026-04-28T15:18:46Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1DZHZfOWloTWd0Y0t2bEpmTU4zaW9FWXNjblJNZnlwY1h4emszQkwyX2xtVlBnYXVTQ2h2VHpjUUlaWGhJMGJlMnktUmFLc1dEdjJLSnRsYjhUREIwc0Y0cmkyUm05Ny1fS2lUR2o3THJHZFRUdV8zN1YzSWZOQQ?oc=5\" target=\"_blank\">Compiler Optimisations Reduce Communication Bottlenecks in Quantum Architectures by 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Compiler Optimisations Reduce Communication Bottlenecks in Quantum Architectures by 20% - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DZHZfOWloTWd0Y0t2bEpmTU4zaW9FWXNjblJNZnlwY1h4emszQkwyX2xtVlBnYXVTQ2h2VHpjUUlaWGhJMGJlMnktUmFLc1dEdjJLSnRsYjhUREIwc0Y0cmkyUm05Ny1fS2lUR2o3THJHZFRUdV8zN1YzSWZOQQ?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNazhNZmtWYVF5UjVJNEVZVmZfZjF1YTNFUkQ0YVhydUNnNnI5ZG5UdFFmSGpROVFRQzV5M1dqTVN4UjFxRFB4dzdSU0d3RTMxNy1TcTdKYW1ZMWl2cUxuQ19BT19OajNUZnFCQU9YS2lnS2R0M3dKTzU2UzFWcFFiM0h5WU0wRzNyc0VodTMtTVFWaUhuMVAtb3F1VUNsVTJrTkRITzhXcllhaWU5MjlPTDFTVWpDZG10S3J4cFFrTQ?oc=5\" target=\"_blank\">QuEra Highlights Role of Neutral-Atom Quantum Computing at Major HPC Forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+      "title": "QuEra Highlights Role of Neutral-Atom Quantum Computing at Major HPC Forum - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNazhNZmtWYVF5UjVJNEVZVmZfZjF1YTNFUkQ0YVhydUNnNnI5ZG5UdFFmSGpROVFRQzV5M1dqTVN4UjFxRFB4dzdSU0d3RTMxNy1TcTdKYW1ZMWl2cUxuQ19BT19OajNUZnFCQU9YS2lnS2R0M3dKTzU2UzFWcFFiM0h5WU0wRzNyc0VodTMtTVFWaUhuMVAtb3F1VUNsVTJrTkRITzhXcllhaWU5MjlPTDFTVWpDZG10S3J4cFFrTQ?oc=5"
     },
     {
       "id": "240863912fb9c431",
@@ -169,6 +112,62 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWhWZ084dXJPRjhWcmFxTkdGZWhobDBXdXNTVHJ5bzBiQmxuTGNaMTB5R2pkci1Cd042WmRBcWRlbFhYLUhTOTNTSWgxMEFwV25WWlY5RE5na2cta2tqZjBLX2tqYi1GTF9KMURDMmRvVlUwY2ZyaWdmYkloYU01YXhjdy1NU0dQZUNqWENIUkp2aFFLdTJDeU5tUnJtTUJkZ2NIUzBxU3ozanpXLWE2cWwyeWhIdUVz?oc=5\" target=\"_blank\">Quantum Computers Are Coming to Break Cryptography Faster Than Anyone Expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SingularityHub</font>",
       "title": "Quantum Computers Are Coming to Break Cryptography Faster Than Anyone Expected - SingularityHub",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQWhWZ084dXJPRjhWcmFxTkdGZWhobDBXdXNTVHJ5bzBiQmxuTGNaMTB5R2pkci1Cd042WmRBcWRlbFhYLUhTOTNTSWgxMEFwV25WWlY5RE5na2cta2tqZjBLX2tqYi1GTF9KMURDMmRvVlUwY2ZyaWdmYkloYU01YXhjdy1NU0dQZUNqWENIUkp2aFFLdTJDeU5tUnJtTUJkZ2NIUzBxU3ozanpXLWE2cWwyeWhIdUVz?oc=5"
+    },
+    {
+      "id": "c918367f82b0ddea",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-04-27T11:51:35Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1KQzNlWWZTYi1XWE44Z0FLUUhmd0MzcEpIbmtqeHctYURUMjFQanVtaGthX2hpRDdyWUJJazFReTNPc19vcVNMQTNORk16VXg2SUItZTNyZEJEa1Q3aHVuYngxa1VfNDN6TjF2OG9TMjhQRHZDOWFDQg?oc=5\" target=\"_blank\">A Commercial History Of Quantum Computing (1999-2026)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "A Commercial History Of Quantum Computing (1999-2026) - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KQzNlWWZTYi1XWE44Z0FLUUhmd0MzcEpIbmtqeHctYURUMjFQanVtaGthX2hpRDdyWUJJazFReTNPc19vcVNMQTNORk16VXg2SUItZTNyZEJEa1Q3aHVuYngxa1VfNDN6TjF2OG9TMjhQRHZDOWFDQg?oc=5"
+    },
+    {
+      "id": "b2cbfc56f132d4c8",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-04-27T08:10:28Z",
+      "query": "quantum error correction",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFdUYjBZX3FvTzRiSDhDMDZZSkJtd3h0MVNQQU1iUXhRYnNIeDVXTkp6dUJpRmJMdzNjczZWV0dwSnNkSXp3WnNzbmlQVDV0RkRaQVhTMUxveHVTZnFMWjBTWE5qdmFfTEN4QXlJY1hVcFFLVDZ6WmxmZ1U4bE93LTAyeHdkOHFtMTNSaklWOGNkX2k2R3RQYWNzZDEzY0FoaHc?oc=5\" target=\"_blank\">Quantum computing gains stability boost from NVIDIA error correction model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Watch Observatory</font>",
+      "title": "Quantum computing gains stability boost from NVIDIA error correction model - Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeFdUYjBZX3FvTzRiSDhDMDZZSkJtd3h0MVNQQU1iUXhRYnNIeDVXTkp6dUJpRmJMdzNjczZWV0dwSnNkSXp3WnNzbmlQVDV0RkRaQVhTMUxveHVTZnFMWjBTWE5qdmFfTEN4QXlJY1hVcFFLVDZ6WmxmZ1U4bE93LTAyeHdkOHFtMTNSaklWOGNkX2k2R3RQYWNzZDEzY0FoaHc?oc=5"
+    },
+    {
+      "id": "8ff53d814b13957f",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-04-25T20:48:54Z",
+      "query": "quantum error correction",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3hoNkpZTGUza25tSzBjbTJ2bDc5VkV1SFk3WGlTWGJQVVRFWkNxVWQ2anM0RnpZZDdWdHFucHBRQkVfeWRpSW1Qckljc3ZKcUEwN3BmWTZaRWRFVnR6azdhUDNlcDZYNG1fZWVlelNqc1lBOUxXUzV4R1lNRmlYc09Zb2pCSFN3bXJ4c2FaMWVVd2NvRXc3UkpJSE9zTEJRSnRFdlRiaDkwRWZPdkU2OXMwSUZVZFhHM1lwY00yVTROLXYzdUhiUGcyRms4ZDFJMEhtQzY0X3czR29BUGgxRm1BWGYwcjZLQTVqZzhFcGxZdw?oc=5\" target=\"_blank\">Novel approach to quantum error correction portends a scalable future for quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
+      "title": "Novel approach to quantum error correction portends a scalable future for quantum computing - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3hoNkpZTGUza25tSzBjbTJ2bDc5VkV1SFk3WGlTWGJQVVRFWkNxVWQ2anM0RnpZZDdWdHFucHBRQkVfeWRpSW1Qckljc3ZKcUEwN3BmWTZaRWRFVnR6azdhUDNlcDZYNG1fZWVlelNqc1lBOUxXUzV4R1lNRmlYc09Zb2pCSFN3bXJ4c2FaMWVVd2NvRXc3UkpJSE9zTEJRSnRFdlRiaDkwRWZPdkU2OXMwSUZVZFhHM1lwY00yVTROLXYzdUhiUGcyRms4ZDFJMEhtQzY0X3czR29BUGgxRm1BWGYwcjZLQTVqZzhFcGxZdw?oc=5"
+    },
+    {
+      "id": "e0784d6de84befd3",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-04-24T07:00:00Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5\" target=\"_blank\">8 Best Quantum Computing Stocks to Buy in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News Money</font>",
+      "title": "8 Best Quantum Computing Stocks to Buy in 2026 - U.S. News Money",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5"
     }
   ],
   "publications": [
